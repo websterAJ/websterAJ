@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander Torres
-- - 👀 I am interested in new programming challenges as a contributor. 
+- 👀 I am interested in new programming challenges as a contributor. 
 - 🌱 I am currently learning cross-platform and mobile development.
 - 📫 How to contact me, you can do it through my email or linkedin
 <!---- 👀 I’m interested in ...
