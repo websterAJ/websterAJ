@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexander Pedro Jose Torres Apontes</h1>
-<h3 align="center">Hola, soy Alexander Torres, un apasionado desarrollador de software con experiencia en programación web y diferentes lenguajes de programación. También tengo conocimientos en diseño y ofimática. Mi trayectoria incluye experiencia en docencia presencial y virtual, así como en el manejo de radios, operaciones de almacenamiento y ventas en tienda.<br/>¡Espero poder colaborar contigo en futuros proyectos emocionantes!</h3>
+<h1 align="center">Hola 👋, mi nombre es Alexander Pedro Jose Torres Apontes</h1>
+<h3 align="center">Un apasionado desarrollador de software con experiencia en programación web y diferentes lenguajes de programación. También tengo conocimientos en diseño y ofimática. Mi trayectoria incluye experiencia en docencia presencial y virtual, así como en el manejo de radios, operaciones de almacenamiento y ventas en tienda.<br/>¡Espero poder colaborar contigo en futuros proyectos emocionantes!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=websteraj&label=Profile%20views&color=0e75b6&style=flat" alt="websteraj" /> </p>
 
