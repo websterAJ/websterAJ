@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Alexander%20Torres&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20%7C%20Web%20%26%20Apps%20M%C3%B3viles&descAlignY=58&descSize=18" alt="Alexander Torres - Desarrollador Full Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Alexander%20Torres&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20%7C%20Web%20y%20Apps%20M%C3%B3viles&descAlignY=58&descSize=18" alt="Alexander Torres - Desarrollador Full Stack" />
 </p>
 
 <p align="center">
